@@ -1,0 +1,4 @@
+#35530A - Navy Green
+#046A38 - Indian Flag Green
+#FF671F - Indian Flag Orange(Safron)
+rgb(239, 211, 211) - Middle Partial Part

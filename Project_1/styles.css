@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    background-color: #35530A;
+}
+img.Logo{
+    text-align: left;
+    border-radius: 50%;
+}
+header{
+    padding: 10px;
+}
+#Menu-Bar{
+    text-align: left;
+}
+div>a{
+    text-decoration: none;
+    color: white;
+    padding: 20px 80px;
+    font-size: 28px;
+}
+#Active-Page{
+    background-color:#FF671F;
+}
+div>a:hover{
+    background-color: #4b6c1e;
+    border: 1px solid salmon;
+}
+div#Middle-Content{
+    margin-top: 20px;
+    background-color: #7c8c65;
+}
+input,select{
+    float: right;
+    height: 20px;
+    padding-left: 5px;
+}
+select{
+    margin-right: 90px;
+}
+legend{
+    text-align: center;
+}
+fieldset{
+    background-color: #4b6c1e;
+    border-radius: 5%;
+    margin-left: 37%;
+}
+/* button:hover{
+    margin-left: 200px;
+} */
